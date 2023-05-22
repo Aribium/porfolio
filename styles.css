@@ -430,6 +430,7 @@ footer{
 .footer__logo--img{
     width: 70px;
     height: 70px;
+    border-radius: 33%;
 }
 
 .footer__social--link,
