@@ -17,6 +17,10 @@ h1,h2,h3,h4,h5,h6,span {
     line-height: 1.25;
 }
 
+.A__blue{
+    color: #5d3eff;
+}
+
 h1{
     font-size: 36px;
 }
