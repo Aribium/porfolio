@@ -56,7 +56,7 @@ transition: all 300ms ease;
     background-color: #fff;
 }
 .link__hover-effect--black:after{
-    background-color: #000;
+    background-color: #4dc98d;
 }
 
 .link__hover-effect:hover:after{
