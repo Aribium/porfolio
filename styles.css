@@ -18,7 +18,7 @@ h1,h2,h3,h4,h5,h6,span {
 }
 
 .A__blue{
-    color: #5d3eff;
+    color: rgba(77, 201, 141);
 }
 
 h1{
@@ -133,13 +133,13 @@ nav {
 
 
 .nav__link--anchor-primary:hover{
-    background-color: #5d3eff
+    background-color: black;
 }
 
 
 .personal__logo{
     font-size: 24px;
-    color: rgba(77, 201, 141);
+    color: black;
     margin: 0 12px;
     font-weight: bold;
 }
